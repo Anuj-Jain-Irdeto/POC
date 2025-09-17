@@ -1,0 +1,2 @@
+1. This App is simulating how Client Sends a request to AIDL Service then AIDL sends it to the Server and Server calculate the new Color code and return it to AIDL and then AIDL return it to client
+2. When user click on the change color button it changes its color.

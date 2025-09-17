@@ -1,0 +1,1 @@
+1. Handling the X button- when user press the X button it opens an alert window which ask users "Do You Want to Exit?" if user says no it stays on the app, else if user says no it exit the user from the app.

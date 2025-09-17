@@ -1,0 +1,2 @@
+1. Handing Button Click Event- Printing Activity POC for TV when press the YouTube Button, and printing Opening Gmail... when press the Gmail button
+2. Handing Text Field - User has to enter the Username and Password and when click on Login it checks for the correct password(Pass)if entered password is wrong it ask user to enter the correct password else it print Hello'username'
